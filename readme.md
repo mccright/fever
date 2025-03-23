@@ -1,8 +1,7 @@
-# 2025 Fever Schedule  
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
-|    Day   |  Date  |    Time     |             Teams                   |  Station |
-|:--------:|:------:|:-----------:|:-----------------------------------:|:--------:|
-| Saturday | May 31 | 2:00 PM CDT | Indiana Fever vs Washington Mystics | (*preseason*) |
+|    Day   |   Date  |     Time      |                Teams                     |  Station |
+|:--------:|:-------:|:-------------:|:----------------------------------------:|:--------:|
+| Saturday | May 3 | 2:00 PM CDT | Indiana Fever vs Washington Mystics | (*preseason*) |
 | Sunday | May 4 | 5:00 PM CDT | Indiana Fever vs Brazil National Team | (*preseason*) |
 | Saturday | May 10 | 2:00 PM CDT | Indiana Fever vs Atlanta Dream | (*preseason*) |
 | Saturday | May 17 | 2:00 PM CDT | Indiana Fever vs Chicago Sky | ABC/ESPN+/Disney+ |
