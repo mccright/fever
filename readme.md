@@ -1,9 +1,9 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
-|    Day   |   Date  |     Time      |                Teams                     |  Station |
+|    Day   |   Date  |     Time      |                Teams (and scores)        |  Station |
 |:--------:|:-------:|:-------------:|:----------------------------------------:|:--------:|
-| Saturday | May 3 | 2:00 PM CDT | Indiana Fever vs Washington Mystics | (*preseason*) |
-| Sunday | May 4 | 5:00 PM CDT | Indiana Fever vs Brazil National Team | (*preseason*) |
-| Saturday | May 10 | 2:00 PM CDT | Indiana Fever vs Atlanta Dream | (*preseason*) |
+| Saturday | May 3 | 2:00 PM CDT | Indiana Fever (79) vs (74) Washington Mystics | (*preseason*) |
+| Sunday | May 4 | 5:00 PM CDT | Indiana Fever (108) vs (44) Brazil National Team | (*preseason*) |
+| Saturday | May 10 | 2:00 PM CDT | Indiana Fever  (81) vs (76) Atlanta Dream | (*preseason*) |
 | Saturday | May 17 | 2:00 PM CDT | Indiana Fever vs Chicago Sky | ABC/ESPN+/Disney+ |
 | Tuesday | May 20 | 6:00 PM CDT | Indiana Fever vs Atlanta Dream | NBA TV |
 | Thursday | May 22 | 6:30 PM CDT | Indiana Fever vs Atlanta Dream | Amazon Prime Video |
@@ -21,7 +21,7 @@
 | Thursday | Jun 26 | 6:00 PM CDT | Indiana Fever vs Los Angeles Sparks | Amazon Prime Video |
 | Friday | Jun 27 | 6:30 PM CDT | Indiana Fever vs Dallas Wings | ION |
 | Thursday | Jul 3 | 6:00 PM CDT | Indiana Fever vs Las Vegas Aces | Amazon Prime Video |
-| Saturday | Jul 5 | 6:00 PM CDT | Indiana Fever vs Los Angeles Sparks | ?? |
+| Saturday | Jul 5 | 6:00 PM CDT | Indiana Fever vs Los Angeles Sparks | [League Pass](https://www.wnba.com/leaguepass) |
 | Wednesday | Jul 9 | 11:00 AM CDT | Indiana Fever vs Golden State Valkyries | NBA TV |
 | Friday | Jul 11 | 6:30 PM CDT | Indiana Fever vs Atlanta Dream | ION |
 | Sunday | Jul 13 | 12:00 PM CDT | Indiana Fever vs Dallas Wings | ABC/ESPN+ |
