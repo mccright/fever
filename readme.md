@@ -7,7 +7,7 @@
 | Saturday | May 17 | 2:00 PM CDT | 1 - 0 | Indiana Fever (93) vs (58) Chicago Sky | ABC/ESPN+/Disney+ |
 | Tuesday | May 20 | 6:00 PM CDT |  1 - 1 | Indiana Fever (90) vs (91) Atlanta Dream | NBA TV |
 | Thursday | May 22 | 6:30 PM CDT |  2 - 1  | Indiana Fever (81) vs (76) Atlanta Dream | Amazon Prime Video |
-| Saturday | May 24 | 12:00 PM CDT |       | Indiana Fever vs New York Liberty | CBS |
+| Saturday | May 24 | 12:00 PM CDT |  2 - 2  | Indiana Fever (88) vs (90) New York Liberty | CBS |
 | Wednesday | May 28 | 6:30 PM CDT |       | Indiana Fever vs Washington Mystics | NBA TV |
 | Friday | May 30 | 6:30 PM CDT |       | Indiana Fever vs Connecticut Sun | ION |
 | Tuesday | Jun 3 | 6:00 PM CDT |       | Indiana Fever vs Washington Mystics | NBA TV |
