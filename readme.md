@@ -13,7 +13,7 @@
 | Tuesday | Jun 3 | 6:00 PM CDT |  3 - 4  | Indiana Fever (85) vs (76) Washington Mystics | NBA TV |
 | Saturday | Jun 7 | 7:00 PM CDT | 4 - 4  | Indiana Fever (79) vs (52) Chicago Sky | CBS |
 | Tuesday | Jun 10 | 6:30 PM CDT | 4 - 5 | Indiana Fever (58) vs (77) Atlanta Dream | ESPN3 |
-| Saturday | Jun 14 | 2:00 PM CDT |       | Indiana Fever vs New York Liberty | ABC/ESPN+ |
+| Saturday | Jun 14 | 2:00 PM CDT | 5 - 5 | Indiana Fever (102) vs (88) New York Liberty | ABC/ESPN+ |
 | Tuesday | Jun 17 | 6:00 PM CDT |       | Indiana Fever vs Connecticut Sun | NBA TV |
 | Thursday | Jun 19 | 9:00 PM CDT |       | Indiana Fever vs Golden State Valkyries | Amazon Prime Video |
 | Sunday | Jun 22 | 2:00 PM CDT |       | Indiana Fever vs Las Vegas Aces | ESPN |
