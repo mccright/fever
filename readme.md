@@ -17,7 +17,7 @@
 | Tuesday | Jun 17 | 6:00 PM CDT  | 6 - 5 | Indiana Fever (88) vs (71) Connecticut Sun | NBA TV |
 | Thursday | Jun 19 | 9:00 PM CDT | 6 - 6 | Indiana Fever (77) vs (88) Golden State Valkyries | Amazon Prime Video |
 | Sunday | Jun 22 | 2:00 PM CDT  | 6 - 7  | Indiana Fever (81) vs (89) Las Vegas Aces | ESPN |
-| Tuesday | Jun 24 | 9:00 PM CDT |       | Indiana Fever vs Seattle Storm | NBA TV |
+| Tuesday | Jun 24 | 9:00 PM CDT | 7 - 7  | Indiana Fever (94) vs (86) Seattle Storm | NBA TV |
 | Thursday | Jun 26 | 6:00 PM CDT |       | Indiana Fever vs Los Angeles Sparks | Amazon Prime Video |
 | Friday | Jun 27 | 6:30 PM CDT |       | Indiana Fever vs Dallas Wings | ION |
 | Thursday | Jul 3 | 6:00 PM CDT |       | Indiana Fever vs Las Vegas Aces | Amazon Prime Video |
