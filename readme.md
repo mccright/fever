@@ -20,6 +20,7 @@
 | Tuesday | Jun 24 | 9:00 PM CDT | 7 - 7  | Indiana Fever (94) vs (86) Seattle Storm | NBA TV |
 | Thursday | Jun 26 | 6:00 PM CDT | 7 - 8  | Indiana Fever (75) vs (85) Los Angeles Sparks | Amazon Prime Video |
 | Friday | Jun 27 | 6:30 PM CDT | 8 - 8  | Indiana Fever (94) vs (86) Dallas Wings | ION |
+| Tuesday | Jul 1 | 6:00 PM CDT |       | Indiana Fever vs Minnesota Lynx (Commissioner's Cup Championship)  | Amazon Prime Video |
 | Thursday | Jul 3 | 6:00 PM CDT |       | Indiana Fever vs Las Vegas Aces | Amazon Prime Video |
 | Saturday | Jul 5 | 6:00 PM CDT |       | Indiana Fever vs Los Angeles Sparks | [League Pass](https://www.wnba.com/leaguepass) |
 | Wednesday | Jul 9 | 11:00 AM CDT |       | Indiana Fever vs Golden State Valkyries | NBA TV |
