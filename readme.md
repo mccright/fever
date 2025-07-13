@@ -24,7 +24,7 @@
 | Thursday | Jul 3 | 6:00 PM CDT | 9 - 8 | Indiana Fever (81) vs (54) Las Vegas Aces | Amazon Prime Video |
 | Saturday | Jul 5 | 6:00 PM CDT | 9 - 9 | Indiana Fever (87) vs (89) Los Angeles Sparks | [League Pass](https://www.wnba.com/leaguepass) |
 | Wednesday | Jul 9 | 11:00 AM CDT | 9 - 10 | Indiana Fever (61) vs (80) Golden State Valkyries | NBA TV |
-| Friday | Jul 11 | 6:30 PM CDT |       | Indiana Fever vs Atlanta Dream | ION |
+| Friday | Jul 11 | 6:30 PM CDT  | 10 - 10 | Indiana Fever (99) vs (82) Atlanta Dream | ION |
 | Sunday | Jul 13 | 12:00 PM CDT |       | Indiana Fever vs Dallas Wings | ABC/ESPN+ |
 | Tuesday | Jul 15 | 7:00 PM CDT |       | Indiana Fever vs Connecticut Sun | ESPN |
 | Wednesday | Jul 16 | 6:30 PM CDT |       | Indiana Fever vs New York Liberty | CBS Sports Network |
