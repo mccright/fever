@@ -25,10 +25,10 @@
 | Saturday | Jul 5 | 6:00 PM CDT | 9 - 9 | Indiana Fever (87) vs (89) Los Angeles Sparks | [League Pass](https://www.wnba.com/leaguepass) |
 | Wednesday | Jul 9 | 11:00 AM CDT | 9 - 10 | Indiana Fever (61) vs (80) Golden State Valkyries | NBA TV |
 | Friday | Jul 11 | 6:30 PM CDT  | 10 - 10 | Indiana Fever (99) vs (82) Atlanta Dream | ION |
-| Sunday | Jul 13 | 12:00 PM CDT |       | Indiana Fever vs Dallas Wings | ABC/ESPN+ |
-| Tuesday | Jul 15 | 7:00 PM CDT |       | Indiana Fever vs Connecticut Sun | ESPN |
-| Wednesday | Jul 16 | 6:30 PM CDT |       | Indiana Fever vs New York Liberty | CBS Sports Network |
-| Tuesday | Jul 22 | 7:00 PM CDT |       | Indiana Fever vs New York Liberty | ESPN |
+| Sunday | Jul 13 | 12:00 PM CDT | 11 - 10 | Indiana Fever (103) vs (83) Dallas Wings | ABC/ESPN+ |
+| Tuesday | Jul 15 | 7:00 PM CDT | 12 - 10 | Indiana Fever (85) vs (77) Connecticut Sun | ESPN |
+| Wednesday | Jul 16 | 6:30 PM CDT | 12 - 11 | Indiana Fever (77) vs (98) New York Liberty | CBS Sports Network |
+| Tuesday | Jul 22 | 7:00 PM CDT | 12 - 12 | Indiana Fever (84) vs (98) New York Liberty | ESPN |
 | Thursday | Jul 24 | 6:00 PM CDT |       | Indiana Fever vs Las Vegas Aces | Amazon Prime Video |
 | Sunday | Jul 27 | 2:00 PM CDT |       | Indiana Fever vs Chicago Sky | ABC/ESPN+ |
 | Wednesday | Jul 30 | 6:00 PM CDT |       | Indiana Fever vs Phoenix Mercury | ESPN3 |
