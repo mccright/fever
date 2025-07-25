@@ -29,7 +29,7 @@
 | Tuesday | Jul 15 | 7:00 PM CDT | 12 - 10 | Indiana Fever (85) vs (77) Connecticut Sun | ESPN |
 | Wednesday | Jul 16 | 6:30 PM CDT | 12 - 11 | Indiana Fever (77) vs (98) New York Liberty | CBS Sports Network |
 | Tuesday | Jul 22 | 7:00 PM CDT | 12 - 12 | Indiana Fever (84) vs (98) New York Liberty | ESPN |
-| Thursday | Jul 24 | 6:00 PM CDT |       | Indiana Fever vs Las Vegas Aces | Amazon Prime Video |
+| Thursday | Jul 24 | 6:00 PM CDT | 13 - 12 | Indiana Fever (80) vs (70) Las Vegas Aces | Amazon Prime Video |
 | Sunday | Jul 27 | 2:00 PM CDT |       | Indiana Fever vs Chicago Sky | ABC/ESPN+ |
 | Wednesday | Jul 30 | 6:00 PM CDT |       | Indiana Fever vs Phoenix Mercury | ESPN3 |
 | Friday | Aug 1 | 6:30 PM CDT |       | Indiana Fever vs Dallas Wings | ION |
