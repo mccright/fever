@@ -32,7 +32,7 @@
 | Thursday | Jul 24 | 6:00 PM CDT | 13 - 12 | Indiana Fever (80) vs (70) Las Vegas Aces | Amazon Prime Video |
 | Sunday | Jul 27 | 2:00 PM CDT | 14 - 12 | Indiana Fever (93) vs (78) Chicago Sky | ABC/ESPN+ |
 | Wednesday | Jul 30 | 6:00 PM CDT | 15 - 12 | Indiana Fever (107) vs (101) Phoenix Mercury | ESPN3 |
-| Friday | Aug 1 | 6:30 PM CDT |       | Indiana Fever vs Dallas Wings | ION |
+| Friday | Aug 1 | 6:30 PM CDT | 16 - 12 | Indiana Fever (88) vs (78) Dallas Wings | ION |
 | Sunday | Aug 3 | 2:00 PM CDT |       | Indiana Fever vs Seattle Storm | ABC/ESPN+ |
 | Tuesday | Aug 5 | 9:00 PM CDT |       | Indiana Fever vs Los Angeles Sparks | CBS Sports Network |
 | Thursday | Aug 7 | 9:00 PM CDT |       | Indiana Fever vs Phoenix Mercury | Amazon Prime Video |
