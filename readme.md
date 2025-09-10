@@ -46,6 +46,6 @@
 | Friday | Aug 29 | 9:00 PM CDT | 21 - 18 | Indiana Fever (76) vs (75) Los Angeles Sparks | ION |
 | Sunday | Aug 31 | 7:30 PM CDT | 21 - 19 | Indiana Fever (63) vs (75) Golden State Valkyries | NBA TV |
 | Tuesday | Sep 2 | 9:00 PM CDT | 21 - 20 | Indiana Fever (79) vs (85) Phoenix Mercury | NBA TV |
-| Friday | Sep 5 | 6:30 PM CDT |       | Indiana Fever vs Chicago Sky | ION |
-| Sunday | Sep 7 | 2:00 PM CDT |       | Indiana Fever vs Washington Mystics | NBA TV |
-| Tuesday | Sep 9 | 6:30 PM CDT |       | Indiana Fever vs Minnesota Lynx | ESPN |
+| Friday | Sep 5 | 6:30 PM CDT | 22 - 20 | Indiana Fever (97) vs (77) Chicago Sky | ION |
+| Sunday | Sep 7 | 2:00 PM CDT | 23 - 20 | Indiana Fever (94) vs (65) Washington Mystics | NBA TV |
+| Tuesday | Sep 9 | 6:30 PM CDT | 24 - 20 | Indiana Fever (83) vs (72) Minnesota Lynx | ESPN |
