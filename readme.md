@@ -37,23 +37,23 @@
 | Tuesday | Aug 5 | 9:00 PM CDT | 17 - 13 | Indiana Fever (91) vs (100) Los Angeles Sparks | CBS Sports Network |
 | Thursday | Aug 7 | 9:00 PM CDT | 17 - 14 | Indiana Fever (60) vs (95) Phoenix Mercury | Amazon Prime Video |
 | Saturday | Aug 9 | 7:00 PM CDT | 18 - 14 | Indiana Fever (92) vs (70) Chicago Sky | CBS |
-| Tuesday | Aug 12 | 6:30 PM CDT | 18 - 15 | Indiana Fever (80) vs (81) Dallas Wings | ESPN |
-| Friday | Aug 15 | 6:30 PM CDT | 18 - 16 | Indiana Fever (84) vs (88) Washington Mystics | ION |
-| Sunday | Aug 17 | 12:00 PM CDT | 19 - 16 | Indiana Fever (99) vs (93) Connecticut Sun | NBA TV |
-| Friday | Aug 22 | 6:30 PM CDT | 19 - 17 | Indiana Fever (90) vs (95) Minnesota Lynx | ION |
-| Sunday | Aug 24 | 6:00 PM CDT | 19 - 18 | Indiana Fever (84) vs (97) Minnesota Lynx | CBS Sports Network |
-| Tuesday | Aug 26 | 6:00 PM CDT| 20 - 18 | Indiana Fever (95) vs (75) Seattle Storm | CBS Sports Network |
-| Friday | Aug 29 | 9:00 PM CDT | 21 - 18 | Indiana Fever (76) vs (75) Los Angeles Sparks | ION |
-| Sunday | Aug 31 | 7:30 PM CDT | 21 - 19 | Indiana Fever (63) vs (75) Golden State Valkyries | NBA TV |
-| Tuesday | Sep 2 | 9:00 PM CDT | 21 - 20 | Indiana Fever (79) vs (85) Phoenix Mercury | NBA TV |
-| Friday | Sep 5 | 6:30 PM CDT | 22 - 20 | Indiana Fever (97) vs (77) Chicago Sky | ION |
-| Sunday | Sep 7 | 2:00 PM CDT | 23 - 20 | Indiana Fever (94) vs (65) Washington Mystics | NBA TV |
-| Tuesday | Sep 9 | 6:30 PM CDT | 24 - 20 | Indiana Fever (83) vs (72) Minnesota Lynx | ESPN |
-| Sunday | Sep 14 | : PM CDT | 24 - 21 | Indiana Fever (68) vs (80) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
-| Tuesday | Sep 16 | : PM CDT | 25 - 21 | Indiana Fever (77) vs (60) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
-| Thursday | Sep 18 | : PM CDT | 26 - 21 | Indiana Fever (87) vs (85) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
-| Sunday | Sep 21 | 2:00 PM CDT | 27 - 21 | Indiana Fever (89) vs (73) Las Vegas Aces | ABC |
-| Tuesday | Sep 23 | 8:30 PM CDT | 27 - 22 | Indiana Fever (68) vs (90) Las Vegas Aces | ESPN |
-| Friday | Sep 26 | 6:30 PM CDT | 27 - 23 | Indiana Fever (72) vs (84) Las Vegas Aces | ESPN2 |
-| Sunday | Sep 28 | 2:00 PM CDT | 27 - 23 | **if needed** Indiana Fever () vs () Las Vegas Aces | ABC |
-| Tuesday | Sep 30 | TBD PM CDT | 27 - 23 | **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
+| Tuesday |Aug 12| 6:30 PM CDT |18 - 15| Indiana Fever (80) vs (81) Dallas Wings | ESPN |
+| Friday |Aug 15| 6:30 PM CDT |18 - 16| Indiana Fever (84) vs (88) Washington Mystics | ION |
+| Sunday |Aug 17| 12:00 PM CDT |19 - 16| Indiana Fever (99) vs (93) Connecticut Sun | NBA TV |
+| Friday |Aug 22| 6:30 PM CDT |19 - 17| Indiana Fever (90) vs (95) Minnesota Lynx | ION |
+| Sunday |Aug 24| 6:00 PM CDT |19 - 18| Indiana Fever (84) vs (97) Minnesota Lynx | CBS Sports Network |
+| Tuesday |Aug 26| 6:00 PM CDT|20 - 18| Indiana Fever (95) vs (75) Seattle Storm | CBS Sports Network |
+| Friday |Aug 29| 9:00 PM CDT |21 - 18| Indiana Fever (76) vs (75) Los Angeles Sparks | ION |
+| Sunday |Aug 31| 7:30 PM CDT |21 - 19| Indiana Fever (63) vs (75) Golden State Valkyries | NBA TV |
+| Tuesday |Sep 2| 9:00 PM CDT |21 - 20| Indiana Fever (79) vs (85) Phoenix Mercury | NBA TV |
+| Friday |Sep 5| 6:30 PM CDT |22 - 20| Indiana Fever (97) vs (77) Chicago Sky | ION |
+| Sunday |Sep 7| 2:00 PM CDT |23 - 20| Indiana Fever (94) vs (65) Washington Mystics | NBA TV |
+| Tuesday |Sep 9| 6:30 PM CDT |24 - 20| Indiana Fever (83) vs (72) Minnesota Lynx | ESPN |
+| Sunday |Sep 14| : PM CDT |24 - 21| Indiana Fever (68) vs (80) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
+| Tuesday |Sep 16| : PM CDT |25 - 21| Indiana Fever (77) vs (60) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
+| Thursday |Sep 18| : PM CDT |26 - 21| Indiana Fever (87) vs (85) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
+| Sunday |Sep 21| 2:00 PM CDT |27 - 21| Indiana Fever (89) vs (73) Las Vegas Aces | ABC |
+| Tuesday |Sep 23| 8:30 PM CDT |27 - 22| Indiana Fever (68) vs (90) Las Vegas Aces | ESPN |
+| Friday |Sep 26| 6:30 PM CDT |27 - 23| Indiana Fever (72) vs (84) Las Vegas Aces | ESPN2 |
+| Sunday |Sep 28| 2:00 PM CDT |27 - 23| **if needed** Indiana Fever () vs () Las Vegas Aces | ABC |
+| Tuesday |Sep 30| TBD PM CDT |27 - 23| **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
