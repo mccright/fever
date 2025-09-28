@@ -1,5 +1,5 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
-|    Day   |   Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
+|    Day   |<div style="width:150px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
 |:--------:|---------|:----------:|:------:|:----------------------------------------:|:--------:|
 | Saturday|May 3|2:00 PM|1 - 0| Indiana Fever (79) vs (74) Washington Mystics | (*preseason*) |
 | Sunday|May 4 |5:00 PM|2 - 0| Indiana Fever (108) vs (44) Brazil National Team | (*preseason*) |
