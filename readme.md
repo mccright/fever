@@ -52,8 +52,8 @@
 | Sunday | Sep 14 | : PM CDT | 24 - 21 | Indiana Fever (68) vs (80) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
 | Tuesday | Sep 16 | : PM CDT | 25 - 21 | Indiana Fever (77) vs (60) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
 | Thursday | Sep 18 | : PM CDT | 26 - 21 | Indiana Fever (87) vs (85) Atlanta Dream | [League Pass](https://www.wnba.com/leaguepass) |
-| Sunday | Sep 21 | 2:00 PM CDT | 26 - 21 | Indiana Fever () vs () Las Vegas Aces | ABC |
-| Tuesday | Sep 23 | 8:30 PM CDT | 26 - 21 | Indiana Fever () vs () Las Vegas Aces | ESPN |
-| Friday | Sep 26 | 6:30 PM CDT | 26 - 21 | Indiana Fever () vs () Las Vegas Aces | ESPN2 |
-| Sunday | Sep 28 | 2:00 PM CDT | 26 - 21 | **if needed** Indiana Fever () vs () Las Vegas Aces | ABC |
-| Tuesday | Sep 30 | TBD PM CDT | 26 - 21 | **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
+| Sunday | Sep 21 | 2:00 PM CDT | 27 - 21 | Indiana Fever (89) vs (73) Las Vegas Aces | ABC |
+| Tuesday | Sep 23 | 8:30 PM CDT | 27 - 22 | Indiana Fever (68) vs (90) Las Vegas Aces | ESPN |
+| Friday | Sep 26 | 6:30 PM CDT | 27 - 23 | Indiana Fever (72) vs (84) Las Vegas Aces | ESPN2 |
+| Sunday | Sep 28 | 2:00 PM CDT | 27 - 23 | **if needed** Indiana Fever () vs () Las Vegas Aces | ABC |
+| Tuesday | Sep 30 | TBD PM CDT | 27 - 23 | **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
