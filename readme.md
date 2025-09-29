@@ -1,6 +1,6 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
 |    Day   |<div style="width:70px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
-|:--------:|---------|:----------:|:------:|:----------------------------------------:|:--------:|
+|:--------:|:-------:|:----------:|:------:|:----------------------------------------:|:--------:|
 | Saturday|May 3|2:00 PM|1 - 0| Indiana Fever (79) vs (74) Washington Mystics | (*preseason*) |
 | Sunday|May 4 |5:00 PM|2 - 0| Indiana Fever (108) vs (44) Brazil National Team | (*preseason*) |
 | Saturday|May 10|2:00 PM|3 - 0| Indiana Fever  (81) vs (76) Atlanta Dream | (*preseason*) |
@@ -55,5 +55,5 @@
 | Sunday|Sep 21|2:00 PM|27 - 21| Indiana Fever (89) vs (73) Las Vegas Aces | ABC |
 | Tuesday|Sep 23|8:30 PM|27 - 22| Indiana Fever (68) vs (90) Las Vegas Aces | ESPN |
 | Friday|Sep 26|6:30 PM|27 - 23| Indiana Fever (72) vs (84) Las Vegas Aces | ESPN2 |
-| Sunday|Sep 28|2:00 PM|27 - 23| **if needed** Indiana Fever () vs () Las Vegas Aces | ABC |
-| Tuesday|Sep 30|TBD PM |27 - 23| **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
+| Sunday|Sep 28|2:00 PM|28 - 23| **if needed** Indiana Fever (90) vs (83) Las Vegas Aces | ABC |
+| Tuesday|Sep 30|TBD PM |28 - 23| **if needed** Indiana Fever () vs () Las Vegas Aces | TBD |
