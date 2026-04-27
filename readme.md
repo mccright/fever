@@ -4,17 +4,17 @@
 | Saturday|Apr 25|2:00 PM |1 - 0| Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
 | Thursday|Apr 30|6:00 PM | - | Indiana Fever () vs () Dallas Wings | Ion (*preseason*) |
 | Saturday|May 2|6:00 PM | - | Indiana Fever () vs () Nigeria National Team |   |
-| Saturday|May 9|12:00 PM | - | Indiana Fever () vs () Dallas Wings |   |
+| Saturday|May 9|12:00 PM | - | Indiana Fever () vs () Dallas Wings | Disney+ or ABC  |
 | Wednesday|May 13|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks | USA  |
 | Friday|May 15|6:30 PM | - | Indiana Fever () vs () Washington Mystics | Ion |
-| Sunday|May 17|5:00 PM | - | Indiana Fever () vs () Seattle Storm | Peacock  |
+| Sunday|May 17|5:00 PM | - | Indiana Fever () vs () Seattle Storm | Peacock or NBC Sports |
 | Wednesday|May 20|6:00 PM | - | Indiana Fever () vs () Portland Fire | USA  |
 | Friday|May 22|6:30 PM | - | Indiana Fever () vs () Golden State Valkyries | Ion  |
 | Thursday|May 28|9:00 PM | - | Indiana Fever () @ () Golden State Valkyries | Prime Video |
-| Saturday|May 30|7:00 PM | - | Indiana Fever () @ () Portland Fire | CBS  |
+| Saturday|May 30|7:00 PM | - | Indiana Fever () @ () Portland Fire | CBS or Paramount+ |
 | Thursday|Jun 4|6:00 PM | - | Indiana Fever () vs () Atlanta Dream (*Commissioner's Cup*) | Prime Video  |
-| Saturday|Jun 6|7:00 PM | - | Indiana Fever () @ () New York Liberty (*Commissioner's Cup*) | CBS  |
-| Monday|Jun 8|7:00 PM | - | Indiana Fever () @ () Washington Mystics (*Commissioner's Cup*) | Peacock  |
+| Saturday|Jun 6|7:00 PM | - | Indiana Fever () @ () New York Liberty (*Commissioner's Cup*) | CBS or Paramount+ |
+| Monday|Jun 8|7:00 PM | - | Indiana Fever () @ () Washington Mystics (*Commissioner's Cup*) | Peacock or NBC Sports |
 | Thursday|Jun 11|6:00 PM | - | Indiana Fever () vs () Chicago Sky (*Commissioner's Cup*) | Prime Video  |
 | Saturday|Jun 13|5:00 PM | - | Indiana Fever () @ () Connecticut Sun (*Commissioner's Cup*) | Peacock  |
 | Tuesday|Jun 16|6:00 PM | - | Indiana Fever () vs () Toronto Tempo (*Commissioner's Cup*) | USA |
