@@ -1,7 +1,7 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
 |    Day   |<div style="width:70px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
 |:--------:|:-------:|:----------:|:------:|:----------------------------------------:|:--------:|
-| Saturday|Apr 25|2:00 PM | - | Indiana Fever () @ () New York Liberty | (*preseason*) |
+| Saturday|Apr 25|2:00 PM |1 - 0| Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
 | Thursday|Apr 30|6:00 PM | - | Indiana Fever () vs () Dallas Wings | (*preseason*) |
 | Saturday|May 9|12:00 PM | - | Indiana Fever () vs () Dallas Wings |   |
 | Wednesday|May 13|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks |   |
