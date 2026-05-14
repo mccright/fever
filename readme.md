@@ -1,27 +1,28 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
 |    Day   |<div style="width:70px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
 |:--------:|:-------:|:----------:|:------:|:----------------------------------------:|:--------:|
-| Saturday|Apr 25|2:00 PM |1 - 0| Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
-| Thursday|Apr 30|6:00 PM | - | Indiana Fever () vs () Dallas Wings | (*preseason*) |
-| Saturday|May 9|12:00 PM | - | Indiana Fever () vs () Dallas Wings |   |
-| Wednesday|May 13|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks |   |
-| Friday|May 15|6:30 PM | - | Indiana Fever () vs () Washington Mystics |   |
-| Sunday|May 17|5:00 PM | - | Indiana Fever () vs () Seattle Storm |   |
-| Wednesday|May 20|6:00 PM | - | Indiana Fever () vs () Portland Fire |   |
-| Friday|May 22|6:30 PM | - | Indiana Fever () vs () Golden State Valkyries |   |
-| Thursday|May 28|9:00 PM | - | Indiana Fever () @ () Golden State Valkyries |   |
-| Saturday|May 30|7:00 PM | - | Indiana Fever () @ () Portland Fire |   |
-| Thursday|Jun 4|6:00 PM | - | Indiana Fever () vs () Atlanta Dream (*Commissioner's Cup*) |   |
-| Saturday|Jun 6|7:00 PM | - | Indiana Fever () @ () New York Liberty (*Commissioner's Cup*) |   |
-| Monday|Jun 8|7:00 PM | - | Indiana Fever () @ () Washington Mystics (*Commissioner's Cup*) |   |
-| Thursday|Jun 11|6:00 PM | - | Indiana Fever () vs () Chicago Sky (*Commissioner's Cup*) |   |
-| Saturday|Jun 13|5:00 PM | - | Indiana Fever () @ () Connecticut Sun (*Commissioner's Cup*) |   |
-| Tuesday|Jun 16|6:00 PM | - | Indiana Fever () vs () Toronto Tempo (*Commissioner's Cup*) |   |
-| Thursday|Jun 18|6:30 PM | - | Indiana Fever () vs () Atlanta Dream |   |
-| Saturday|Jun 20|12:00 PM | - | Indiana Fever () @ () Atlanta Dream |   |
-| Monday|Jun 22|7:00 PM | - | Indiana Fever () vs () Phoenix Mercury |   |
-| Wednesday|Jun 24|6:00 PM | - | Indiana Fever () vs () Phoenix Mercury |   |
-| Saturday|Jun 27|7:00 PM | - | Indiana Fever () vs () Los Angeles Sparks |   |
+| Saturday|Apr 25|2:00 PM | NA | Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
+| Thursday|Apr 30|6:00 PM | NA | Indiana Fever (80) vs (95) Dallas Wings | Ion (*preseason*) |
+| Saturday|May 2|6:00 PM | NA | Indiana Fever (105) vs (57) Nigeria National Team |   |
+| Saturday|May 9|12:00 PM |0 - 1| Indiana Fever (104) vs (107) Dallas Wings | Disney+ or ABC  |
+| Wednesday|May 13|9:00 PM |1 - 1| Indiana Fever (87) @ (78) Los Angeles Sparks | USA  |
+| Friday|May 15|6:30 PM | - | Indiana Fever () vs () Washington Mystics | Ion |
+| Sunday|May 17|5:00 PM | - | Indiana Fever () vs () Seattle Storm | Peacock or NBC Sports |
+| Wednesday|May 20|6:00 PM | - | Indiana Fever () vs () Portland Fire | USA  |
+| Friday|May 22|6:30 PM | - | Indiana Fever () vs () Golden State Valkyries | Ion  |
+| Thursday|May 28|9:00 PM | - | Indiana Fever () @ () Golden State Valkyries | Prime Video |
+| Saturday|May 30|7:00 PM | - | Indiana Fever () @ () Portland Fire | CBS or Paramount+ |
+| Thursday|Jun 4|6:00 PM | - | Indiana Fever () vs () Atlanta Dream (*Commissioner's Cup*) | Prime Video  |
+| Saturday|Jun 6|7:00 PM | - | Indiana Fever () @ () New York Liberty (*Commissioner's Cup*) | CBS or Paramount+ |
+| Monday|Jun 8|7:00 PM | - | Indiana Fever () @ () Washington Mystics (*Commissioner's Cup*) | Peacock or NBC Sports |
+| Thursday|Jun 11|6:00 PM | - | Indiana Fever () vs () Chicago Sky (*Commissioner's Cup*) | Prime Video  |
+| Saturday|Jun 13|5:00 PM | - | Indiana Fever () @ () Connecticut Sun (*Commissioner's Cup*) | Peacock  |
+| Tuesday|Jun 16|6:00 PM | - | Indiana Fever () vs () Toronto Tempo (*Commissioner's Cup*) | USA |
+| Thursday|Jun 18|6:30 PM | - | Indiana Fever () vs () Atlanta Dream | Prime Video |
+| Saturday|Jun 20|12:00 PM | - | Indiana Fever () @ () Atlanta Dream | ABC |
+| Monday|Jun 22|7:00 PM | - | Indiana Fever () vs () Phoenix Mercury | USA  |
+| Wednesday|Jun 24|6:00 PM | - | Indiana Fever () vs () Phoenix Mercury | USA  |
+| Saturday|Jun 27|7:00 PM | - | Indiana Fever () vs () Los Angeles Sparks | CBS  |
 | Sunday|Jul 5|6:00 PM | - | Indiana Fever () @ () Las Vegas Aces |   |
 | Wednesday|Jul 8|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks |   |
 | Thursday|Jul 9|9:00 PM | - | Indiana Fever () @ () Phoenix Mercury |   |
