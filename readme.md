@@ -1,11 +1,11 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2025&month=all&location=all&opponent=all)</small>  
 |    Day   |<div style="width:70px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
 |:--------:|:-------:|:----------:|:------:|:----------------------------------------:|:--------:|
-| Saturday|Apr 25|2:00 PM |1 - 0| Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
-| Thursday|Apr 30|6:00 PM | - | Indiana Fever () vs () Dallas Wings | Ion (*preseason*) |
-| Saturday|May 2|6:00 PM | - | Indiana Fever () vs () Nigeria National Team |   |
-| Saturday|May 9|12:00 PM | - | Indiana Fever () vs () Dallas Wings | Disney+ or ABC  |
-| Wednesday|May 13|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks | USA  |
+| Saturday|Apr 25|2:00 PM | NA | Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
+| Thursday|Apr 30|6:00 PM | NA | Indiana Fever (80) vs (95) Dallas Wings | Ion (*preseason*) |
+| Saturday|May 2|6:00 PM | NA | Indiana Fever (105) vs (57) Nigeria National Team |   |
+| Saturday|May 9|12:00 PM |0 - 1| Indiana Fever (104) vs (107) Dallas Wings | Disney+ or ABC  |
+| Wednesday|May 13|9:00 PM |1 - 1| Indiana Fever (87) @ (78) Los Angeles Sparks | USA  |
 | Friday|May 15|6:30 PM | - | Indiana Fever () vs () Washington Mystics | Ion |
 | Sunday|May 17|5:00 PM | - | Indiana Fever () vs () Seattle Storm | Peacock or NBC Sports |
 | Wednesday|May 20|6:00 PM | - | Indiana Fever () vs () Portland Fire | USA  |
