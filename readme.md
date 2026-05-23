@@ -8,8 +8,8 @@
 | Wednesday|May 13|9:00 PM |1 - 1| Indiana Fever (87) @ (78) Los Angeles Sparks | USA  |
 | Friday|May 15|6:30 PM |1 - 2| Indiana Fever (102) vs (104) Washington Mystics | Ion |
 | Sunday|May 17|5:00 PM |2 - 2| Indiana Fever (89) vs (78) Seattle Storm | Peacock or NBC Sports |
-| Wednesday|May 20|6:00 PM | - | Indiana Fever () vs () Portland Fire | USA  |
-| Friday|May 22|6:30 PM | - | Indiana Fever () vs () Golden State Valkyries | Ion  |
+| Wednesday|May 20|6:00 PM |3 - 2| Indiana Fever (90) vs (73) Portland Fire | USA  |
+| Friday|May 22|6:30 PM |4 - 2| Indiana Fever (90) vs (82) Golden State Valkyries | Ion  |
 | Thursday|May 28|9:00 PM | - | Indiana Fever () @ () Golden State Valkyries | Prime Video |
 | Saturday|May 30|7:00 PM | - | Indiana Fever () @ () Portland Fire | CBS or Paramount+ |
 | Thursday|Jun 4|6:00 PM | - | Indiana Fever () vs () Atlanta Dream (*Commissioner's Cup*) | Prime Video  |
