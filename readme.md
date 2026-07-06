@@ -22,30 +22,30 @@
 | Saturday|Jun 20|12:00 PM |9 - 7| Indiana Fever (96) @ (113) Atlanta Dream | ABC |
 | Monday|Jun 22|7:00 PM |10 - 7| Indiana Fever (86) vs (77) Phoenix Mercury | USA  |
 | Wednesday|Jun 24|6:00 PM |10 - 8| Indiana Fever (109) vs (111) Phoenix Mercury | USA  |
-| Saturday|Jun 27|7:00 PM | - | Indiana Fever () vs () Los Angeles Sparks | CBS  |
-| Sunday|Jul 5|6:00 PM | - | Indiana Fever () @ () Las Vegas Aces |   |
-| Wednesday|Jul 8|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks |   |
-| Thursday|Jul 9|9:00 PM | - | Indiana Fever () @ () Phoenix Mercury |   |
-| Sunday|Jul 12|8:00 PM | - | Indiana Fever () @ () Las Vegas Aces |   |
-| Wednesday|Jul 15|7:00 PM | - | Indiana Fever () vs () Golden State Valkyries |   |
-| Friday|Jul 17|6:30 PM | - | Indiana Fever () vs () Seattle Storm |   |
-| Saturday|Jul 18|7:00 PM | - | Indiana Fever () vs () New York Liberty |   |
-| Wednesday|Jul 22|7:00 PM | - | Indiana Fever () vs () Connecticut Sun |   |
-| Tuesday|Jul 28|8:30 PM | - | Indiana Fever () @ () Seattle Storm |   |
-| Friday|Jul 31|9:00 PM | - | Indiana Fever () @ () Portland Fire |   |
-| Sunday|Aug 2|12:00 PM | - | Indiana Fever () @ () Minnesota Lynx |   |
-| Thursday|Aug 6|6:00 PM | - | Indiana Fever () vs () Las Vegas Aces |   |
-| Saturday|Aug 8|2:00 PM | - | Indiana Fever () @ () Chicago Sky |   |
-| Tuesday|Aug 11|6:30 PM | - | Indiana Fever () vs () New York Liberty |   |
-| Friday|Aug 14|6:30 PM | - | Indiana Fever () vs () Dallas Wings |   |
-| Sunday|Aug 16|6:00 PM | - | Indiana Fever () @ () Atlanta Dream |   |
-| Tuesday|Aug 18|6:00 PM | - | Indiana Fever () @ () Toronto Tempo |   |
-| Thursday|Aug 20|7:00 PM | - | Indiana Fever () @ () Dallas Wings |   |
-| Saturday|Aug 22|6:00 PM | - | Indiana Fever () @ () New York Liberty |   |
-| Sunday|Aug 23|6:00 PM | - | Indiana Fever () @ () Chicago Sky |   |
-| Friday|Aug 28|6:30 PM | - | Indiana Fever () vs () Connecticut Sun |   |
-| Friday|Sep 18|6:30 PM | - | Indiana Fever () @ () Toronto Tempo |   |
-| Sunday|Sep 20|3:00 PM | - | Indiana Fever () vs () Washington Mystics |   |
-| Tuesday|Sep 22|7:00 PM | - | Indiana Fever () vs () Minnesota Lynx |   |
-| Thursday|Sep 24|7:00 PM | - | Indiana Fever () @ () Minnesota Lynx |   |
+| Saturday|Jun 27|7:00 PM |11 - 8| Indiana Fever (111) vs (87) Los Angeles Sparks | CBS  |
+| Sunday|Jul 5|6:00 PM | - | Indiana Fever () @ () Las Vegas Aces |ESPN or Disney+|
+| Wednesday|Jul 8|9:00 PM | - | Indiana Fever () @ () Los Angeles Sparks |USA or CNBC|
+| Thursday|Jul 9|9:00 PM | - | Indiana Fever () @ () Phoenix Mercury |Prime or local 13|
+| Sunday|Jul 12|8:00 PM | - | Indiana Fever () @ () Las Vegas Aces |NBC or Peacock|
+| Wednesday|Jul 15|7:00 PM | - | Indiana Fever () vs () Golden State Valkyries |USA or local 13|
+| Friday|Jul 17|6:30 PM | - | Indiana Fever () vs () Seattle Storm |Ion|
+| Saturday|Jul 18|7:00 PM | - | Indiana Fever () vs () New York Liberty |CBS or Paramount+|
+| Wednesday|Jul 22|7:00 PM | - | Indiana Fever () vs () Connecticut Sun |USA or local 13|
+| Tuesday|Jul 28|8:30 PM | - | Indiana Fever () @ () Seattle Storm |ESPN|
+| Friday|Jul 31|9:00 PM | - | Indiana Fever () @ () Portland Fire |Ion|
+| Sunday|Aug 2|12:00 PM | - | Indiana Fever () @ () Minnesota Lynx |ABC|
+| Thursday|Aug 6|6:00 PM | - | Indiana Fever () vs () Las Vegas Aces |Prime|
+| Saturday|Aug 8|2:00 PM | - | Indiana Fever () @ () Chicago Sky |ABC|
+| Tuesday|Aug 11|6:30 PM | - | Indiana Fever () vs () New York Liberty |ESPN|
+| Friday|Aug 14|6:30 PM | - | Indiana Fever () vs () Dallas Wings |Ion|
+| Sunday|Aug 16|6:00 PM | - | Indiana Fever () @ () Atlanta Dream |ESPN or Disney+|
+| Tuesday|Aug 18|6:00 PM | - | Indiana Fever () @ () Toronto Tempo |ESPN|
+| Thursday|Aug 20|7:00 PM | - | Indiana Fever () @ () Dallas Wings |Prime|
+| Saturday|Aug 22|6:00 PM | - | Indiana Fever () @ () New York Liberty |Prime|
+| Sunday|Aug 23|6:00 PM | - | Indiana Fever () @ () Chicago Sky |NBC or Peacock|
+| Friday|Aug 28|6:30 PM | - | Indiana Fever () vs () Connecticut Sun |Ion|
+| Friday|Sep 18|6:30 PM | - | Indiana Fever () @ () Toronto Tempo |Ion|
+| Sunday|Sep 20|3:00 PM | - | Indiana Fever () vs () Washington Mystics |NBA TV|
+| Tuesday|Sep 22|7:00 PM | - | Indiana Fever () vs () Minnesota Lynx |ESPN|
+| Thursday|Sep 24|7:00 PM | - | Indiana Fever () @ () Minnesota Lynx |USA|
 
