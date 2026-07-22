@@ -26,10 +26,10 @@
 | Sunday|Jul 5|6:00 PM |12 - 8| Indiana Fever (84) @ (68) Las Vegas Aces |ESPN or Disney+|
 | Wednesday|Jul 8|9:00 PM |12 - 9| Indiana Fever (92) @ (106) Los Angeles Sparks |USA or CNBC|
 | Thursday|Jul 9|9:00 PM |13 - 9| Indiana Fever (92) @ (89) Phoenix Mercury |Prime|
-| Sunday|Jul 12|8:00 PM | - | Indiana Fever () @ () Las Vegas Aces |NBC or Peacock|
-| Wednesday|Jul 15|7:00 PM | - | Indiana Fever () vs () Golden State Valkyries |USA|
-| Friday|Jul 17|6:30 PM | - | Indiana Fever () vs () Seattle Storm |Ion|
-| Saturday|Jul 18|7:00 PM | - | Indiana Fever () vs () New York Liberty |CBS or Paramount+|
+| Sunday|Jul 12|8:00 PM |14 - 9| Indiana Fever (109) @ (75) Las Vegas Aces |NBC or Peacock|
+| Wednesday|Jul 15|7:00 PM |14 - 10| Indiana Fever (75) vs (88) Golden State Valkyries |USA|
+| Friday|Jul 17|6:30 PM |15 - 10| Indiana Fever (110) vs (107) Seattle Storm |Ion|
+| Saturday|Jul 18|7:00 PM |16 - 10| Indiana Fever (108) vs (88) New York Liberty |CBS or Paramount+|
 | Wednesday|Jul 22|7:00 PM | - | Indiana Fever () vs () Connecticut Sun |USA|
 | Tuesday|Jul 28|8:30 PM | - | Indiana Fever () @ () Seattle Storm |ESPN|
 | Friday|Jul 31|9:00 PM | - | Indiana Fever () @ () Portland Fire |Ion|
