@@ -41,8 +41,8 @@
 | Sunday|Aug 16|6:00 PM |23 - 12| Indiana Fever (95) @ (91) Atlanta Dream |ESPN or Disney+|
 | Tuesday|Aug 18|6:00 PM |24 - 12| Indiana Fever (101) @ (95) Toronto Tempo |ESPN|
 | Thursday|Aug 20|7:00 PM |24 - 13| Indiana Fever (85) @ (91) Dallas Wings |Prime|
-| Saturday|Aug 22|6:00 PM | - | Indiana Fever () @ () New York Liberty |Prime|
-| Sunday|Aug 23|6:00 PM | - | Indiana Fever () @ () Chicago Sky |NBC or Peacock|
+| Saturday|Aug 22|6:00 PM |24 - 14| Indiana Fever (102) @ (109) New York Liberty |Prime|
+| Sunday|Aug 23|6:00 PM |25 - 14| Indiana Fever (113) @ (90) Chicago Sky |NBC or Peacock|
 | Friday|Aug 28|6:30 PM | - | Indiana Fever () vs () Connecticut Sun |Ion|
 | Friday|Sep 18|6:30 PM | - | Indiana Fever () @ () Toronto Tempo |Ion|
 | Sunday|Sep 20|3:00 PM | - | Indiana Fever () vs () Washington Mystics |NBA TV|
