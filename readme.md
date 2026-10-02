@@ -1,4 +1,5 @@
 <small>From: [Indiana Fever site](https://fever.wnba.com/schedule?season=2026&month=all&location=all&opponent=all)</small>  
+2026 Regular Season Record: 28 wins - 16 losses  
 |    Day   |<div style="width:70px" />Date  |Time (*CDT*)|Win-Loss|                Teams (and scores)        |  Station |
 |:--------:|:-------:|:----------:|:------:|:----------------------------------------:|:--------:|
 | Saturday|Apr 25|2:00 PM | NA | Indiana Fever (109) @ (91) New York Liberty | (*preseason*) |
@@ -43,9 +44,13 @@
 | Thursday|Aug 20|7:00 PM |24 - 13| Indiana Fever (85) @ (91) Dallas Wings |Prime|
 | Saturday|Aug 22|6:00 PM |24 - 14| Indiana Fever (102) @ (109) New York Liberty |Prime|
 | Sunday|Aug 23|6:00 PM |25 - 14| Indiana Fever (113) @ (90) Chicago Sky |NBC or Peacock|
-| Friday|Aug 28|6:30 PM | - | Indiana Fever () vs () Connecticut Sun |Ion|
-| Friday|Sep 18|6:30 PM | - | Indiana Fever () @ () Toronto Tempo |Ion|
-| Sunday|Sep 20|3:00 PM | - | Indiana Fever () vs () Washington Mystics |NBA TV|
-| Tuesday|Sep 22|7:00 PM | - | Indiana Fever () vs () Minnesota Lynx |ESPN|
-| Thursday|Sep 24|7:00 PM | - | Indiana Fever () @ () Minnesota Lynx |USA|
+| Friday|Aug 28|6:30 PM |26 - 14| Indiana Fever (111) vs (91) Connecticut Sun |Ion|
+| Friday|Sep 18|6:30 PM |27 - 14| Indiana Fever (103) @ (85) Toronto Tempo |Ion|
+| Sunday|Sep 20|3:00 PM |27 - 15| Indiana Fever (77) vs (93) Washington Mystics |NBA TV|
+| Tuesday|Sep 22|7:00 PM |28 - 15| Indiana Fever (96) vs (77) Minnesota Lynx |ESPN|
+| Thursday|Sep 24|7:00 PM |28 - 16| Indiana Fever (66) @ (86) Minnesota Lynx |USA|
+| **Playoffs** || ||  ||
+| Sunday|Sep 27| |0 - 1| Indiana Fever (85) @ (102) Las Vegas Aces | |
+| Tuesday|Sep 29| |1 - 1| Indiana Fever (99) @ (89) Las Vegas Aces | |
+| Thursday|Oct 1| |1 - 2| Indiana Fever (83) @ (94) Las Vegas Aces | |
 
